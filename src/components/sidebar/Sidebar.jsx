@@ -12,10 +12,12 @@ export default function Sidebar() {
           alt=""
         />
         <p>
-        <h6>@auther</h6> <br/>
+        <h6>@auther&nbsp;- UMESH (Entrepreneur) </h6> <br/>
         Er.Umesh Kumar - Java Full Stack Developer
         (Spring Boot Reactive Programmer)<br/><br/>
         <p>
+        <p><a href="https://www.linkedin.com/in/er-umesh-kumar-%F0%9F%87%AE%F0%9F%87%B3-spring-boot-reactive-programmer-26a7ba173/">Linkd-In</a> &nbsp;&nbsp;
+         <a href="https://github.com/theumeshdev/bloggerApplication-SpringBoot">github</a></p>
          <h5>Qualification -: </h5> <br/> M.C.A    form AKTU.<br/>
                          B.C.A   from MCU  <br/>
                          Java Certified Developer<br/>
